@@ -120,6 +120,7 @@ a:focus{
 	font-weight:300;
 	text-align:center;
 	line-height:30px;
+	font-size:20px;
 }
 .form-control{
 	padding: 6px 30px;
