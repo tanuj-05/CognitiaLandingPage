@@ -58,6 +58,11 @@ body{
 	-moz-osx-font-smoothing:grayscale;
 }
 
+.center img{
+	float: left;
+  width: 150px;
+  height: 150px;
+  }
 a{
 	color: #3498db;
 }
